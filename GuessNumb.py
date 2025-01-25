@@ -1,5 +1,5 @@
 while True:
-    
+    print("Welcome to the game!")
     user_input = input("Guess the number:")
     
     try:
