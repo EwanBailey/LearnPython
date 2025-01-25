@@ -14,3 +14,6 @@ while True:
             
     except:
         print ("x is not a number")
+
+# Helpful Page:
+# https://www.w3schools.com/python/python_conditions.asp
